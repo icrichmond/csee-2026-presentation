@@ -1,0 +1,21 @@
+---
+title: "Assessing the impact of vegetated curb cuts on temperature mitigation and biodiversity support in Trois-Rivières"
+author: "Isabella C. Richmond, Emma Bacon, Nicole Yu, Kayleigh Hutt-Taylor, Carly D. Ziter"
+title-slide-attributes:
+  data-background-image: /presentation_imgs/image832.png
+  data-background-opacity: "0.65"
+format: 
+  revealjs:
+    theme: simple
+    slide-number: c
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Vegetated curb cuts are for stormwater management 
+
+
+
+
+## 
