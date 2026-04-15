@@ -13,8 +13,72 @@ editor:
     wrap: 72
 ---
 
-## Vegetated curb cuts are for stormwater management 
+## Vegetated curb cuts are designed for stormwater management 
 
+:::: {.columns}
+
+:::: {.column}
+
+![](presentation_imgs/IMG_1254.jpeg){width=75%}
+
+::::
+
+:::: {.column}
+
+::: {layout="[[-1], [1], [-1]]"}
+
+![](presentation_imgs/biorentention.png)
+
+:::
+
+::::
+
+::::
+
+
+## Vegetated curb cuts also act as habitat 
+
+{{< video presentation_imgs/IMG_1259.MOV  width="1000" height="500" >}}
+
+
+## Rue St Maurice as a case study 
+
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+::: {layout="[[-1], [1], [-1]]"}
+- 54 curb cuts were installed in 2018
+- 20,000 plants were planted in 2018 and monitored for 3 years after
+- different configurations 
+::: 
+
+:::
+
+::: {.column}
+
+![](presentation_imgs/before.png){width=80% fig-align="right"}
+
+:::
+
+:::
+
+
+
+## What is the impact of creating vegetated curb cuts & their different configurations? 
+
+1. 
+
+
+
+## Habitat measurements 
+
+1. Temperature 
+
+2. Vegetative abundance & diversity 
+
+3. Habitat use by bees 
 
 
 
