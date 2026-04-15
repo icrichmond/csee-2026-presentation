@@ -1,0 +1,9 @@
+# Assessing the impact of vegetated curb cuts on temperature mitigation and biodiversity support in Trois-Rivières
+
+## Authors 
+
+Isabella C Richmond, Emma Bacon, Nicole Yu, Kayleigh Hutt-Taylor, Carly D Ziter
+
+## Abstract
+
+Curb cuts, or “saillies” are increasingly being used as an opportunity for greening across Quebec cities. Vegetated curb cuts are a type of green infrastructure that are typically designed as to act as a natural method of stormwater management. However, their creation and management also establishes herbaceous vegetation and trees, often native species, in urban areas. Given the importance of trees and herbaceous vegetation in urban areas to the provision of benefits for urban residents and biodiversity support, we conducted a study to assess the benefits of vegetated curb cuts separate from stormwater management. We conducted a pilot study in Trois-Rivières and assessed how the presence of curb cuts, and the different morphologies of vegetated curb cuts, affect air temperature, plant biodiversity, and pollinator biodiversity. We measured 36 newly established curb cuts along Rue St Maurice in Trois-Rivières, which included 6 different morphology types. Morphology ranged from turf grass only to a combination of herbaceous vegetation, shrubs, and trees. We measured air temperature using both fixed sensors and a mobile bike sensor. We observed bees interacting with curb cuts over 300 times during our surveys, though interaction was highly dependent on plant species. Curb cuts had 4 planted tree species, all of which were native. Our study takes a different perspective on a newly popular type of green infrastructure and provides evidence on the benefits that come from both the presence of curb cuts and specific morphologies of different curb cut approaches.
