@@ -16,9 +16,9 @@ editor:
 
 ## Cities ask a lot of our green infrastructure 
 
-![Qi of the City by Nicole Yu & Betty
-Woo](presentation_imgs/tnoc-p16.jpg){fig-align="center"}
-
+::: {layout="[[-1], [1], [-1]]"}
+![](presentation_imgs/Picture1.png){fig-align="center"}
+:::
 
 ## Vegetated curb cuts are designed for stormwater management 
 
@@ -87,7 +87,7 @@ Woo](presentation_imgs/tnoc-p16.jpg){fig-align="center"}
 
 2. Vegetative abundance & diversity 
 
-3. Habitat use by bees 
+3. Habitat interactions by bees 
 
 
 add map? photos? 
