@@ -14,7 +14,7 @@ editor:
 ---
 
 
-## Cities ask a lot of our green infrastructure 
+## Green infrastructure plays many roles in our cities
 
 ::: {layout="[[-1], [1], [-1]]"}
 ![](presentation_imgs/Picture1.png){fig-align="center"}
@@ -43,7 +43,7 @@ editor:
 ::::
 
 
-## Vegetated curb cuts also act as habitat 
+## Vegetated curb cuts have many cobenefits
 
 {{< video presentation_imgs/IMG_1259.MOV  width="1000" height="500" >}}
 
@@ -73,22 +73,13 @@ editor:
 
 
 
-## What is the impact of creating vegetated curb cuts & their different configurations? 
-
-1. Presence/Absence
-
-2. Configurations 
-
-
-
-## Habitat measurements 
+## What is the impact of vegetated curb cut presence and design on different cobenefits? 
 
 1. Temperature 
 
-2. Vegetative abundance & diversity 
+1. Pollinator interactions 
 
-3. Habitat interactions by bees 
-
+1. Vegetative beauty / aesthetics
 
 add map? photos? 
 
@@ -125,7 +116,7 @@ how to incorporate veg
 
 ::: columns
 ::: {.column width="60%"}
-![](presentation_imgs/ZULE_logo_green.png)
+![](presentation_imgs/ZULE_logo_green.png){width=50%}
 
 ![](presentation_imgs/LabPhoto2024.jpeg){width="70%"
 fig-align="center"}
@@ -145,10 +136,10 @@ fig-align="center"}
 ::: {.columns}
 
 ::: {.column width="50%"}
-![](presentation_imgs/IMG_1240.jpeg)
+![](presentation_imgs/IMG_1240.jpeg){width=80%}
 
 ::: 
 
 ::: {.column width="50%"}
-![](presentation_imgs/IMG_1250.jpeg)
+![](presentation_imgs/IMG_1250.jpeg){width=80%}
 :::
