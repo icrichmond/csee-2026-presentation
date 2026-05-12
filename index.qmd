@@ -59,7 +59,7 @@ editor:
 
 - 54 curb cuts were installed in 2018
 - 20,000 plants were planted in 2018 and monitored for 3 years after
-- 7 different designs
+- 7 different designs (+ controls)
 ::: 
 
 ::: {.column}
@@ -73,13 +73,26 @@ editor:
 ::::
 
 
-## What is the impact of vegetated curb cut presence and design on different co-benefits? 
+## What is the impact of vegetated curb cuts on different co-benefits? 
+
+
+:::: columns
+
+::: {.column width="40%"}
 
 1. Temperature 
 
 1. Pollinator (bee) interactions 
 
 1. Vegetation management
+::: 
+
+::: {.column width="60%"}
+
+![](presentation_imgs/map.png)
+:::
+
+::::
 
 
 ## Temperature is cooler in vegetated curb-cuts at night
