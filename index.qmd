@@ -26,7 +26,7 @@ editor:
 
 :::: {.column}
 
-![](presentation_imgs/IMG_1254.jpeg){width=75%}
+![](presentation_imgs/){width=75%}
 
 ::::
 
@@ -43,25 +43,22 @@ editor:
 ::::
 
 
-## Vegetated curb cuts have many cobenefits
+## Vegetated curb cuts have the potential for co-benefits
 
 {{< video presentation_imgs/IMG_1259.MOV  width="1000" height="500" >}}
 
 
 ## Rue St Maurice as a case study 
 
-
+:::: {layout="[[-1], [1], [-1]]"}
 ::: {.columns}
 
 ::: {.column width="40%"}
 
-::: {layout="[[-1], [1], [-1]]"}
 - 54 curb cuts were installed in 2018
 - 20,000 plants were planted in 2018 and monitored for 3 years after
-- different configurations 
+- 7 different designs
 ::: 
-
-:::
 
 ::: {.column}
 
@@ -71,61 +68,67 @@ editor:
 
 :::
 
+::::
 
 
-## What is the impact of vegetated curb cut presence and design on different cobenefits? 
+## What is the impact of vegetated curb cut presence and design on different co-benefits? 
 
 1. Temperature 
 
-1. Pollinator interactions 
+1. Pollinator (bee) interactions 
 
-1. Vegetative beauty / aesthetics
+1. Vegetation management
 
-add map? photos? 
 
-## Temperature is cooler in vegetated curb-cuts 
+## Temperature is cooler in vegetated curb-cuts at night
 
-plot w temp contrasts 
+![](presentation_imgs/temperature_presence.png){fig-align="center"}
 
-## Configuration of vegetated curb-cuts affects temperature 
+## Shrubs mediate night-time temperature {.smaller} 
 
-plot w configuration contrasts 
+![](presentation_imgs/temperature_design.png){fig-align="center"}
 
-## Configuration causes differences in pollinator interactions 
+## Design does not cause major differences in pollinator interactions 
 
-plot w bee interaction contrasts 
+![](presentation_imgs/bees_design.png){fig-align="center"} 
 
-## vegetation .... ? 
+## Trees and shrubs are most persistent vegetation
 
-how to incorporate veg 
+![](presentation_imgs/veg_design.png){fig-align="center"}
 
 ## {background-image="presentation_imgs/IMG_1257.jpeg"}
 
+:::: {layout="[[-1], [1], [-1]]"}
 ::: columns
 ::: {.column width="90%"}
 ::: {style="background-color: #c0c0beff; opacity: 80%"}
 
 **Vegetated curb cuts have benefits for human and non-human residents in cities**
 
-
+- vegetated curb cuts have co-benefits
+- design of curb cuts impacts co-benefits
+- small scale green infrastructure affects night-time temperature (by many degrees!)
+- shrubs are providing cooling and mangement benefits
 :::
 :::
 :::
+::::
 
 ## Thank you! 
 
 ::: columns
 ::: {.column width="60%"}
-![](presentation_imgs/ZULE_logo_green.png){width=50%}
+![](presentation_imgs/ZULE_logo_green.png){width=30%}
 
-![](presentation_imgs/LabPhoto2024.jpeg){width="70%"
-fig-align="center"}
+![](presentation_imgs/LabPhoto2024.jpeg){width="70%"}
 :::
 
 ::: {.column width="40%"}
 ::: {layout="[[-1], [1], [-1]]"}
--   Collaborators + Cami
--   ...
+-   Cami Loignon-Gagnon
+-   Ville de Trois-Rivières
+-   Thi-Thanh Hiên Pham (UQAM)
+-   Danielle Dagenais (UdeM)
 :::
 :::
 :::
@@ -141,5 +144,5 @@ fig-align="center"}
 ::: 
 
 ::: {.column width="50%"}
-![](presentation_imgs/IMG_1250.jpeg){width=80%}
+![](presentation_imgs/IMG_1254.jpeg){width=80%}
 :::
