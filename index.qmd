@@ -26,7 +26,9 @@ editor:
 
 :::: {.column}
 
-![](presentation_imgs/){width=75%}
+::: {layout="[[-1], [1], [-1]]"}
+![](presentation_imgs/saillies.jpg)
+:::
 
 ::::
 
@@ -34,7 +36,7 @@ editor:
 
 ::: {layout="[[-1], [1], [-1]]"}
 
-![](presentation_imgs/biorentention.png)
+![](presentation_imgs/biorentention.png){width=40%}
 
 :::
 
